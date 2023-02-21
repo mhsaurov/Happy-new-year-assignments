@@ -53,3 +53,25 @@
     font-family: 'work Sans';
 
 }
+
+.About-container{
+    width: 1072px;
+    height: 723.3px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    text-align: right;
+}
+.color-icons{
+    color: rgb(0, 206, 51);
+    font-size: 30px;
+    line-height: 15px;
+}
+.check-items{
+    font-size: 20px;
+    line-height: 5px;
+    
+}
+.check-container{
+    margin: 20px 0;
+}
