@@ -75,3 +75,40 @@
 .check-container{
     margin: 20px 0;
 }
+
+.MyPlans{
+   width: 80%;
+    margin: 50px auto;
+
+}
+
+.plan-text{
+    text-align: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.title-text{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    font-family: 'work-Sans';
+}
+.title-des{
+    color: #737272;
+    font-size: 14px;
+}
+
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px ;
+    padding: 30px;
+}
+.web{
+   width: 50%;
+    margin-left: 30px;
+}
