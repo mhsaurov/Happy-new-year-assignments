@@ -112,3 +112,25 @@
    width: 50%;
     margin-left: 30px;
 }
+
+.watch-container{
+    width: 50%;
+    height: 250px;
+    margin: 50px auto;
+    border-radius: 5px;
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(image/watch.png);
+}
+.text-section{
+    position: absolute;
+    width: 459px;
+    height: 182px;
+    left: 594px;
+    top: 2220px;
+    color: #fff;
+    align-items: center;
+}
+.heading-text{
+    font-size: 45px;
+    font-family: 'work-Sans';
+
+}
